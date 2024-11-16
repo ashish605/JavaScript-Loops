@@ -1,4 +1,4 @@
-console.log("hello")
+console.log("hellomidnruh v invrnv rnvofn kvojvdk mk kno m")
 
 // let a=1;
 // while(a<10)
